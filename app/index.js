@@ -1,3 +1,5 @@
+//Pásztor László, II/E, 2025-10-22
+
 import express from 'express'
 import router from './routes/api.js'
 
