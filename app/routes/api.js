@@ -1,3 +1,5 @@
+//Pásztor László, II/E, 2025-10-22
+
 import Router from 'express'
 import ResearchController from '../controllers/researchController.js'
 import ResearcherController from '../controllers/researcherController.js'
