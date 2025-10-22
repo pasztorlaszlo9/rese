@@ -1,3 +1,4 @@
+//Pásztor László, II/E, 2025-10-22
 
 const ResearcherController ={
     index: (req, res) => {
